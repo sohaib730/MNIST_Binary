@@ -22,6 +22,7 @@ Next step is to download and train the model with:
 
 The downloaded data will be stored in 'files/' and the trained model will be stored in 'results/'. Following figure shows that label of MNIST dataset are modified to suit our classification task
 
+![](files/train.png)
 
 ## Testing
 
