@@ -10,7 +10,7 @@ torch ==
 
 torchvision == 
 
-In order to directly setup the environemtn, use the following command:
+In order to directly setup the environment, use the following command:
 
 ```pip install -r requirements.txt```
 
@@ -23,7 +23,7 @@ Next step is to download and train the model with:
 The downloaded data will be stored in 'files/' and the trained model will be stored in 'results/'. Following figure shows that label of MNIST dataset are modified to suit our classification task
 
 
-##Testing
+## Testing
 
 In order to load the trained model and perform prediction, run the following code:
 
