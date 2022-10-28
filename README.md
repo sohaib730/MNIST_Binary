@@ -1,4 +1,4 @@
-This is a template code to use Pytorch Library to build/train deep models. The classification task is to identify odd/even in MNIST data.
+This is a template code on how to use Pytorch for deep learning. The classification task we considered is to identify odd/even in MNIST data.
 
 ## Requirement
 
