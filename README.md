@@ -6,9 +6,9 @@ We have used conda virtual environment to setup the following packages:
 
 Python == 3.8
 
-torch == 
+torch == 1.12.1
 
-torchvision == 
+torchvision == 0.2.2
 
 In order to directly setup the environment, use the following command:
 
