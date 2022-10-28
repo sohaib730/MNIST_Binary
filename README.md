@@ -30,5 +30,6 @@ In order to load the trained model and perform prediction, run the following cod
 
 ```python test.py```
 
-#Summary
-The model was trained with no gpu and over 3 epochs. The achieved accuracy over testset is 98%.
+# Summary
+
+The model was trained on a cpu over 3 epochs only. The accuracy over test data is 98%.
